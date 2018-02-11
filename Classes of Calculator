@@ -18,4 +18,11 @@ class calculator:
            print(div)
            
 calculator.multiplication(3,5)
+calculator.addition(2,6)
+calculator.substraction(8,4)
+calculator.division(10,2)
+
+
+#Still working on that REPO and trying to make it better.
+
            
